@@ -3,8 +3,8 @@
 def test_example():
     assert 3 > 1
 
-def test_another():
+def test_vasya():
     assert 0 == 0
 
-def test_another10():
-    assert 0 == 0
+def test_vasya():
+    assert 0 == 12
